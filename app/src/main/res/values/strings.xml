@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mandol 45</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_budget">Budget</string>
+    <string name="title_activity_budget_detail">BudgetDetail</string>
+    <string name="title_activity_bill">BillActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+</resources>
